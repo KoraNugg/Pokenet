@@ -1,0 +1,59 @@
+body {
+    background-image: url("https://wallpapertag.com/wallpaper/full/1/4/f/566226-pokemon-xy-wallpapers-1920x1080-smartphone.jpg");
+    background-repeat: no-repeat;
+    background-clip: content-box;
+    background-size:100%;
+}
+
+p {
+    background-color:#DAF7A6;
+    font-size: 1em;
+    background-color: #8d6336;
+    box-shadow: 6px 6px 15px black;
+    text-align: center;
+    border-radius:5px 5px 5px 5px;
+    border: 3px double black;
+    font-weight:800;
+    text-shadow:0 1.2px 0 #00ecff, 0 -1.2px 0 #ff4045;
+     
+}
+
+h1 , h2 , h3 , h4 , h5 , h6 {
+    text-align: center;
+    background-color: #6d6336;
+    border: 3px double black;
+    border-radius:30px 90px 30px 90px;
+    box-shadow: 6px 6px 15px black;
+}
+
+li {
+    text-align: center;
+    background-color: #41380f;
+    border: 3px double black;
+    border-radius:30px 90px 30px 90px;
+    box-shadow: 6px 6px 15px black;
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+}
+
+ul {
+    text-align: center;
+    background-color: #837743;
+    border: 3px double black;
+    border-radius:30px 90px 30px 90px;
+    box-shadow: 6px 6px 15px black;
+    color: #ffffff;
+}
+
+.mainmenu {
+    text-align: center;
+    background-color: #c2d30e;
+    border: 3px double black;
+    border-radius:10px 10px 10px 10px;
+    box-shadow: 6px 6px 15px black;
+    color: #ffffff;
+    font-size: xx-large;
+}

@@ -1,0 +1,49 @@
+body {
+    background-color:#36406d;
+    background: repeating-radial-gradient( #ee0979 , #ff6a00);
+    background-image: url("https://th.bing.com/th/id/R.a5456669db91a68e1d0d6f9256b9a9ed?rik=TDHq9%2fz8ER%2fDGw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f1%2ff%2f2%2f649327.jpg&ehk=Ejb%2b2PerXNOrALasEPjhQxCPOYxNH%2fro5cSSS7QNSK4%3d&risl=&pid=ImgRaw&r=0");
+    background-size: 100em;
+    background-position: center;
+}
+
+p {
+    background-color:#DAF7A6;
+    font-size: 1em;
+    background-color: #8d6336;
+    box-shadow: 6px 6px 15px black;
+    text-align: center;
+    border-radius:5px 5px 5px 5px;
+    border: 3px double black;
+    font-weight:800;
+    text-shadow:0 1.2px 0 #00ecff, 0 -1.2px 0 #ff4045;
+     
+}
+
+h1 , h2 , h3 , h4 , h5 , h6 {
+    text-align: center;
+    background-color: #2d43b3;
+    border: 3px double black;
+    border-radius:30px 90px 30px 90px;
+    box-shadow: 6px 6px 15px black;
+}
+
+li {
+    text-align: center;
+    background-color: #370061;
+    border: 3px double black;
+    border-radius:30px 90px 30px 90px;
+    box-shadow: 6px 6px 15px black;
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+}
+ul {
+    text-align: center;
+    background-color: #60caff;
+    border: 3px double black;
+    border-radius:30px 90px 30px 90px;
+    box-shadow: 6px 6px 15px black;
+    color: #ffffff;
+}
